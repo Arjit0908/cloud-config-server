@@ -1,1 +1,4 @@
 welcome.message: "Welcome to our production environment!"
+channel:
+  name: "Arjit Singh"
+  url: "http://example.com"
